@@ -1,0 +1,12 @@
+{
+  "name": "klaes-random-password",
+  "version": "1.0.0",
+  "description": "Библиотека для генерации случайного пароля",
+  "main": "password.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Klaes88",
+  "license": "ISC"
+}
